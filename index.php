@@ -122,8 +122,8 @@
 					</button>
 				</div>
 				<div class="text-center mt-4">
-					<a href="Samples/FoodieHub/home.php"><button type="button" class="btn btn-danger">Demo</button></a>
-					<a class="link-primary" href="https://github.com/youngju79/My-Sample-Codes/tree/master/Samples/FoodieHub"><button type="button" class="btn btn-danger">Code</button></a>
+					<a href="FoodieHub/home.php"><button type="button" class="btn btn-danger">Demo</button></a>
+					<a href="https://github.com/youngju79/MyWebApps/tree/main/FoodieHub"><button type="button" class="btn btn-danger">Code</button></a>
 				</div>
 		    </div>
 		    <div class="col-4 my-5 project-description">
@@ -166,8 +166,8 @@
 					</button>
 				</div>
 			    <div class="text-center mt-4">
-					<a href="Samples/Eggsellent/HomePage.html"><button type="button" class="btn btn-dark">Demo</button></a>
-					<a href="https://github.com/youngju79/My-Sample-Codes/tree/master/Samples/Eggsellent"><button type="button" class="btn btn-dark">Code</button></a>
+					<a href="Eggsellent/HomePage.html"><button type="button" class="btn btn-dark">Demo</button></a>
+					<a href="https://github.com/youngju79/MyWebApps/tree/main/Eggsellent"><button type="button" class="btn btn-dark">Code</button></a>
 				</div>
 		    </div>
 		    <div class="col-4 my-5 project-description">
@@ -187,8 +187,8 @@
 					</div>
 				</div>
 			    <div class="text-center mt-4">
-					<a href="Samples/MovieDB/moviedb.html"><button type="button" class="btn btn-primary">Demo</button></a>
-					<a href="https://github.com/youngju79/My-Sample-Codes/tree/master/Samples/MovieDB"><button type="button" class="btn btn-primary">Code</button></a>
+					<a href="MovieDB/moviedb.html"><button type="button" class="btn btn-primary">Demo</button></a>
+					<a href="https://github.com/youngju79/MyWebApps/tree/main/MovieDB"><button type="button" class="btn btn-primary">Code</button></a>
 				</div>
 		    </div>
 		    <div class="col-4 my-5 project-description">
